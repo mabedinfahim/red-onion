@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "title":"Salmon with Grapefruit and Lentil Salad",
+        "description":"This is much healthy food. As a dinner it will be best for you and it is a home made food",
+        "img":"https://i.ibb.co/h1KxPH0/dinner1.png",
+        "price":4
+    },
+    {
+        "id":2,
+        "title":"Lemony salmon Piccata",
+        "description":"This is much healthy food. As a dinner it will be best for you and it is a home made food",
+        "img":"https://i.ibb.co/d5QyDJY/dinner2.png",
+        "price":5
+    },
+    {
+        "id":3,
+        "title":"Pork Tenderloin With Quinoa Pilaf",
+        "description":"This is much healthy food. As a dinner it will be best for you and it is a home made food",
+        "img":"https://i.ibb.co/RctnpFL/dinner3.png",
+        "price":4.5
+    },
+    {
+        "id":4,
+        "title":"French Fries With cheese",
+        "description":"This is much healthy food. As a dinner it will be best for you and it is a home made food",
+        "img":"https://i.ibb.co/KNgT4f0/dinner4.png",
+        "price":5
+    },
+    {
+        "id":5,
+        "title":"Garlic Butter Baked Salmon",
+        "description":"This is much healthy food. As a dinner it will be best for you and it is a home made food",
+        "img":"https://i.ibb.co/McDdnts/dinner5.png",
+        "price":6
+    },
+    {
+        "id":6,
+        "title":"Baked Chicken",
+        "description":"This is much healthy food. As a dinner it will be best for you and it is a home made food",
+        "img":"https://i.ibb.co/jwDtCLd/dinner6.png",
+        "price":3.5
+    }
+]
+
+
+
+
+
+
