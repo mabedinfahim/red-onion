@@ -2,8 +2,8 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div>
-            <h1>This is Banner page</h1>
+        <div className="bg-[url('/src/assets/images/bannerbackground.png')] bg-contain h-[500px]">
+           
         </div>
     );
 };
