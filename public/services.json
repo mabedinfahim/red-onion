@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "title":"Fast Delivery",
+        "description":"We are providing fast delivery to your door. Only you have to pay delivery charges then your food will be delivered within schedule time.",
+        "img":"https://i.ibb.co/Ldckghh/Group-1151.png"
+    },
+    {
+        "id":2,
+        "title":"A Good Auto Responder",
+        "description":"We are providing fast delivery to your door. Only you have to pay delivery charges then your food will be delivered within schedule time.",
+        "img":"https://i.ibb.co/41pbhb3/chef-cook-food-33614.png"
+    },
+    {
+        "id":3,
+        "title":"Home Delivery",
+        "description":"We are providing fast delivery to your door. Only you have to pay delivery charges then your food will be delivered within schedule time.",
+        "img":"https://i.ibb.co/MpCGxNx/architecture-building-city-2047397.png"
+    }
+]
+
+
+

@@ -9,7 +9,7 @@ const Dinner = () => {
         .then(data=>setDinner(data))
     },[])
     return (
-        <div className="grid grid-cols-3 gap-4 my-10">
+        <div className="grid grid-cols-3 gap-10 my-10">
             {dinner?.map(data=><ItemCard key={data.id} data={data}/>)}
         </div>
     );
