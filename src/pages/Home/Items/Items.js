@@ -9,10 +9,10 @@ const Items = ({children}) => {
     return (
         <div className="py-20 px-20">
            <div className="flex justify-center items-center">
-                <nav className="flex gap-6">
-                    <Link onClick={()=>setItem(<Breakfast/>)} className="font-semibold active:text-red-500 " to='/'>Breakfast</Link>
-                    <Link onClick={()=>setItem(<Lunch/>)} className="font-semibold focus:text-red-500" to='/'>Lunch</Link>
-                    <Link onClick={()=>setItem(<Dinner/>)} className="font-semibold focus:text-red-500" to='/'>Dinner</Link>
+                <nav className="flex gap-6 list-none">
+                    <li onClick={()=>setItem(<Breakfast/>)} className="font-semibold focus:text-red-500 " >Breakfast</li>
+                    <li onClick={()=>setItem(<Lunch/>)} className="font-semibold focus:text-red-500" >Lunch</li>
+                    <li onClick={()=>setItem(<Dinner/>)} className="font-semibold focus:text-red-500" >Dinner</li>
                 </nav>
            </div>
            <div>
